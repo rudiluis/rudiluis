@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E16AQHDR0-zuaKpzA/profile-displaybackgroundimage-shrink_350_1400/0/1674912336472?e=1705536000&v=beta&t=syCTElU9KKsniPrSBgM56cKeJoA_Solbz-5SYf_J5U4)
 <h3 align="center">Senior Software Developer | Blockchain Developer</h3>
 <h3 align="center">Based in London, 🇬🇧 UK</h3>
 <img align="right" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
